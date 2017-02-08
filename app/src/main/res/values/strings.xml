@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HitAPI</string>
+    <string name="login_expired">Login Expired</string>
+    <string name="login_again">HitAPI</string>
+    <string name="ok">HitAPI</string>
+
+</resources>
